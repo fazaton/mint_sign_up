@@ -1,0 +1,76 @@
+.wrapper {
+	background-color: white;
+	border: 1px solid white;
+    width: 100%;    
+    height: 800px;
+}
+
+.main {
+	background-color: white;
+	border: 1px solid grey;
+    width: 50%;    
+    height: 500px;
+    padding: 25px;
+    margin: 20px 130px 30px 280px;
+}
+
+a#logo-link {
+    background: url(https://images.mint.com/web-client/images/backgrounds/mint.png) no-repeat 0 0;
+    display: block;
+    float: left;
+    margin-left: 280px;
+    margin-top: 90px;
+    height: 81px;
+    text-decoration: none;
+    width: 194px;
+}
+
+#sign {
+	margin-left: 800px;
+    margin-top: 140px;
+    height: 0;
+}
+
+#contacts {
+	background-color: #e5e6e8;
+	border: 1px solid grey;
+    width: 70%;    
+    margin: 10px;
+    float: left;
+    height: 500px;
+}
+
+#side-box {
+	background-color: #e5e6e8;
+	border: 1px solid grey;
+    width: 25%;    
+    margin-top: 10px;
+	margin-left: 475px;
+    height: 500px;
+}
+
+#footer {
+	background-color: #e5e6e8;
+	width: 50%;
+	margin-left: 300px;
+    height: 7%;
+    text-align: center;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+h4 {
+	color: #454647;
+}
+
+#points {
+	width: 100%;
+}
+
+li {
+	display: inline;
+}
+
