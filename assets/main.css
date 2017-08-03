@@ -7,7 +7,7 @@
 
 .main {
 	background-color: white;
-	border: 1px solid grey;
+	border: 1px solid white;
     width: 50%;    
     height: 500px;
     padding: 25px;
@@ -18,8 +18,8 @@ a#logo-link {
     background: url(https://images.mint.com/web-client/images/backgrounds/mint.png) no-repeat 0 0;
     display: block;
     float: left;
-    margin-left: 280px;
-    margin-top: 90px;
+    margin-left: 310px;
+    margin-top: 100px;
     height: 81px;
     text-decoration: none;
     width: 194px;
@@ -27,7 +27,7 @@ a#logo-link {
 
 #sign {
 	margin-left: 800px;
-    margin-top: 140px;
+    margin-top: 160px;
     height: 0;
 }
 
@@ -35,7 +35,6 @@ a#logo-link {
 	background-color: #e5e6e8;
 	border: 1px solid grey;
     width: 70%;    
-    margin: 10px;
     float: left;
     height: 500px;
 }
@@ -44,7 +43,6 @@ a#logo-link {
 	background-color: #e5e6e8;
 	border: 1px solid grey;
     width: 25%;    
-    margin-top: 10px;
 	margin-left: 475px;
     height: 500px;
 }
@@ -74,3 +72,20 @@ li {
 	display: inline;
 }
 
+#superfooter {
+	background-color: white;
+	width: 50%;
+	margin-left: 300px;
+    height: 15%;
+    text-align: center;
+}
+
+#ssl-norton {
+	margin-left: -300px;
+	margin-top: -15px;
+}
+
+#truste {
+	margin-right: -250px;
+	margin-top: 5px;
+}
